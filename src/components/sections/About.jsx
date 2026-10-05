@@ -31,9 +31,11 @@ export default function About() {
 
       <div className="grid md:grid-cols-2 gap-12 items-center mt-12">
         <div className="flex justify-center">
-          <div className="w-64 h-64 md:w-80 md:h-80 rounded-2xl bg-gradient-to-br from-accent-400 to-accent-600 flex items-center justify-center text-white text-6xl font-bold shadow-xl">
-            {"</>"}
-          </div>
+          <img
+            src="/portfolio/perfil.png"
+            alt="Fernando Echeverry"
+            className="w-64 h-64 md:w-80 md:h-80 rounded-2xl object-cover shadow-xl"
+          />
         </div>
 
         <div>
