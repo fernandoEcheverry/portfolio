@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "about": "About",
+    "techStack": "Tech Stack",
+    "projects": "Projects",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm Fernando Hernández",
+    "title": "Full Stack Developer",
+    "subtitle": "Digital Signage Specialist",
+    "tagline": "I turn ideas into digital solutions. From web and mobile apps to interactive digital signage experiences, I build technology that connects with people.",
+    "cta": "View Projects"
+  },
+  "about": {
+    "heading": "About Me",
+    "bio": "I'm a Full Stack Developer with over 9 years of experience building technology solutions across diverse industries. My career spans web and mobile applications, game development, IoT integration, and digital signage platforms. I'm passionate about tackling complex technical challenges and turning them into functional products that deliver real impact. Every project is an opportunity to learn, innovate, and deliver results that exceed expectations.",
+    "experienceYears": "9+",
+    "experienceLabel": "Years of Experience",
+    "projectsCount": "30+",
+    "projectsLabel": "Projects Completed",
+    "technologiesCount": "20+",
+    "technologiesLabel": "Technologies Mastered"
+  },
+  "techStack": {
+    "heading": "Tech Stack",
+    "subtitle": "The tools and technologies I work with to build robust and scalable solutions.",
+    "categories": {
+      "frontend": "Frontend",
+      "mobile": "Mobile",
+      "backend": "Backend",
+      "gameDev": "Game Dev",
+      "databases": "Databases",
+      "tools": "Tools",
+      "ai": "AI / Assistants",
+      "methodologies": "Methodologies"
+    }
+  },
+  "projects": {
+    "heading": "Projects",
+    "subtitle": "A selection of professional projects showcasing my experience across different technologies and industries.",
+    "viewCase": "View Case Study",
+    "filters": {
+      "all": "All",
+      "webApp": "Web App",
+      "mobile": "Mobile",
+      "gameDev": "Game Dev",
+      "digitalSignage": "Digital Signage",
+      "ecommerce": "E-Commerce",
+      "iot": "IoT"
+    }
+  },
+  "projectDetail": {
+    "generalInfo": "General Information",
+    "type": "Type",
+    "sector": "Industry",
+    "role": "Role",
+    "team": "Team",
+    "duration": "Duration",
+    "techStack": "Tech Stack",
+    "context": "Context",
+    "problem": "Problem",
+    "solution": "Solution",
+    "challenge": "Technical Challenge",
+    "results": "Results",
+    "technologies": "Technologies",
+    "close": "Close"
+  },
+  "testimonials": {
+    "heading": "Testimonials",
+    "subtitle": "What people I've worked with have to say."
+  },
+  "contact": {
+    "heading": "Contact",
+    "subtitle": "Have a project in mind? I'd love to hear from you. Send me a message and I'll get back to you as soon as possible.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your full name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@email.com",
+    "messageLabel": "Message",
+    "messagePlaceholder": "Tell me about your project...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "sent": "Message sent successfully! I'll get back to you soon.",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with React + Tailwind CSS"
+  }
+}
